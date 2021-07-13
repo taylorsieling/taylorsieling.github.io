@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.823d964d.chunk.css",
+    "main.js": "/static/js/main.d6d06a4d.chunk.js",
+    "main.js.map": "/static/js/main.d6d06a4d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cba58f60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cba58f60.js.map",
+    "static/js/2.77d267ef.chunk.js": "/static/js/2.77d267ef.chunk.js",
+    "static/js/2.77d267ef.chunk.js.map": "/static/js/2.77d267ef.chunk.js.map",
+    "static/js/3.4d8f9d0b.chunk.js": "/static/js/3.4d8f9d0b.chunk.js",
+    "static/js/3.4d8f9d0b.chunk.js.map": "/static/js/3.4d8f9d0b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.823d964d.chunk.css.map": "/static/css/main.823d964d.chunk.css.map",
+    "static/js/2.77d267ef.chunk.js.LICENSE.txt": "/static/js/2.77d267ef.chunk.js.LICENSE.txt",
+    "static/media/PenciledIn.0a11ff2d.png": "/static/media/PenciledIn.0a11ff2d.png",
+    "static/media/Plantd.0a3740f1.png": "/static/media/Plantd.0a3740f1.png",
+    "static/media/Rosie.0d984dbd.png": "/static/media/Rosie.0d984dbd.png",
+    "static/media/headshot.55b273b0.png": "/static/media/headshot.55b273b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba58f60.js",
+    "static/js/2.77d267ef.chunk.js",
+    "static/css/main.823d964d.chunk.css",
+    "static/js/main.d6d06a4d.chunk.js"
+  ]
+}
